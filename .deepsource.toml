@@ -1,0 +1,10 @@
+version = 1
+
+[[analyzers]]
+name = "ruby"
+
+[[analyzers]]
+name = "shell"
+
+[[analyzers]]
+name = "swift"
